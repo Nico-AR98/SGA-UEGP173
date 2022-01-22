@@ -1,0 +1,2 @@
+Enviroment:
+Django 2.2.3

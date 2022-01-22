@@ -1,0 +1,43 @@
+/*Generales*/
+html {
+    height: 100vh;
+}
+
+/*Tipografias*/
+
+.titulo {
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+/*estilos generales*/
+
+
+.containerLogin {
+    margin-top: 10em;
+    margin: auto;
+    text-align: center;
+    border: 3px double #ffb703;
+    border-radius: 30px;
+    background-color: #dee2e6;
+}
+
+#logoInicioSesion {
+    width: 200px;
+    height: 200px;
+}
+
+/*main*/
+main {
+    min-height: calc(100vh - 99px - 217px);
+}
+
+
+/*footer*/
+
+footer {
+    background-color: #3a3d3f;
+    color: white;
+    text-align: center;
+    max-height: 217px;
+}
